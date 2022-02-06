@@ -1,3 +1,7 @@
+
+Project Team Members: Matthew Labay
 # TestRepoCSCI3308
 Main Branch Readme Edit
-Hey there cowboy
+<<<<<<< HEAD
+=======
+>>>>>>> main
